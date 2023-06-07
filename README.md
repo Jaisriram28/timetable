@@ -14,7 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
-```python
+```html
 <!Doctype html>
 <html>
 <body>
@@ -117,8 +117,8 @@ Execute the program
 
 
 # OUPUT
-![html](https://user-images.githubusercontent.com/119404460/215158924-3e73c366-6de3-400a-aaf5-fcd5f5f67155.png)
 
+![o](https://github.com/Jaisriram28/timetable/assets/122092094/6ee80055-bbd9-4944-a2cc-eeb6187aa8c1)
 
 # RESULT
 Created a html page for the timetable
